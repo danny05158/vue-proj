@@ -10,6 +10,6 @@ Emulates the layout of icons on a smart phone
 - 500px-999px: shows 4 columns
 - below 500px: show 2 columns
 
-- Icon should be draggable. To drag an icon a user must click and hold for a second or so.
+- Icon should be draggable. To drag an icon a user must click and hold for a second or so. used [vuedraggable](https://github.com/SortableJS/Vue.Draggable) library
 - Dragging an icon into other icons should reorder the icons on the screen.
 - CSS only wallpaper design.
